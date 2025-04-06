@@ -1,4 +1,3 @@
-# Cricketer-Analysis
 # Interactive Power BI Dashboard – Cricketer’s Performance Analysis 🏏📊
 
 This Power BI project provides a deep dive into the performance of a cricketer, showcasing visual insights across different formats, opponents, venues, and match situations.
