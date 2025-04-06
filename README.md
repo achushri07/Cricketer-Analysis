@@ -9,7 +9,7 @@ This Power BI project provides a deep dive into the performance of a cricketer, 
 - **Power Query** used for transformations and cleaning.
 - **DAX Measures** for calculating averages, max, and frequency stats.
 
-## 📸 Screenshots
+## 📸 Screenshot
 ![Screenshot 2025-04-06 154412](https://github.com/user-attachments/assets/2b0093ef-991b-4c6d-b46d-d9186dd42bde)
 
 
