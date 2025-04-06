@@ -13,7 +13,7 @@ This Power BI project provides a deep dive into the performance of a cricketer, 
 *(Add a few screenshots of your dashboard if you can)*
 
 ## 📁 Files
-- `Virat_Kohli_Dashboard.pbix` - Main Power BI report file.
+- `Cricketer Analysis.pbix` - Main Power BI report file.
 
 ## 🚀 How to Use
 1. Download the `.pbix` file.
