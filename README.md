@@ -10,7 +10,8 @@ This Power BI project provides a deep dive into the performance of a cricketer, 
 - **DAX Measures** for calculating averages, max, and frequency stats.
 
 ## 📸 Screenshots
-*(Add a few screenshots of your dashboard if you can)*
+![Screenshot 2025-04-06 154412](https://github.com/user-attachments/assets/2b0093ef-991b-4c6d-b46d-d9186dd42bde)
+
 
 ## 📁 Files
 - `Cricketer Analysis.pbix` - Main Power BI report file.
